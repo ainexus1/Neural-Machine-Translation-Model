@@ -13,7 +13,7 @@ This repository contains an implementation of a Neural Machine Translation (NMT)
 
 ## Dataset
 
-The dataset used for training and testing the NMT model is the "Hindi_English_Truncated_Corpus" dataset. It has been preprocessed and filtered to focus on a specific source ("ted") and exclude any null values or duplicates.
+The dataset used for training and testing the model can be downloaded from [here](https://www.kaggle.com/datasets/umasrikakollu72/hindi-english-truncated-corpus).
 
 ## Preprocessing Steps
 
